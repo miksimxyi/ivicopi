@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.yandex.ru	TRUE	/	FALSE	1999999999	_yasc	ftq67iaRTMqkT0og22OoQD1T5H+TiDm8EnBYYBoHa+PC1Zocgo2Zbul7Dx7dGsVecw==
+.yandex.ru	TRUE	/	FALSE	1999999999	i	6hFbCEHwnyPn3YeufFp9GBdzpfSbzw+FVon57lg0dXS0gq7Y73lKqq7jwU5sqDK1Cwev0X198HuwlUgIDYU/nERMrwc=
+.yandex.ru	TRUE	/	FALSE	1999999999	yandexuid	5393573211717431731
+.yandex.ru	TRUE	/	FALSE	1999999999	yashr	5820668421717431731
+.ivi.ru	TRUE	/	FALSE	1999999999	is_pers	0
+.ivi.ru	TRUE	/	FALSE	1999999999	deviceIdPostFix	26065
+.ivi.ru	TRUE	/	FALSE	1999999999	act_days_qnt	%7B%22date%22%3A%2220240603%22%2C%22value%22%3A1%7D
+.ivi.ru	TRUE	/	FALSE	1999999999	user_ab_bucket	5065
+.ivi.ru	TRUE	/	FALSE	1999999999	sessivi	260658096737207049236918_1733242930-01a1LgK__jzNXuQs7YFGmYg
+.ivi.ru	TRUE	/	FALSE	1999999999	session_data	eyJ1aWQiOjY3MzcyMDcwNDkyMzY5MTh9.Zl3t-g.gWfE0EqwO0-aP6JEAt1YHoDXlSk
+
